@@ -9,3 +9,7 @@ So x & (1<<i) is nonzero if and only if x has a 1 in the i-th place.
 This can be used to print out an integer in binary format (which standard printf won’t do).
 
 The following program gives an example of this technique.
+
+/////
+
+Added comments how creating initial mask works.
